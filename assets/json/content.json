@@ -1,0 +1,28 @@
+{
+  "en": {
+    "pages": {
+      "homepage": {
+        "header": {
+          "content": {
+            "header": "Header Title",
+            "description": "This will be rendered in a wysiwyg field due to the key and schema"
+          }
+        },
+        "content": {
+          "section": {
+            "header": "This is a section title",
+            "image": {
+              "src": "https://dummyimage.com/600x400/000/fff.png&text=Example+Image",
+              "alt": "example"
+            }
+          }
+        },
+        "footer": {
+          "content": {
+            "header": "Footer Title"
+          }
+        }
+      }
+    }
+  }
+}
