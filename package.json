@@ -1,0 +1,15 @@
+{
+    "name": "GH-CMS-Starter-template",
+    "version": "0.0.1",
+    "description": "GH-CMS Starter template",
+    "repository": "https://github.com/jansmolders86/gh-cms-starter-template",
+    "author": "Jan Smolders",
+    "dependencies": {},
+    "devDependencies": {
+        "gulp-concat": "^2.6.1",
+        "gulp-sass": "^4.0.1",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "^3.0.0",
+        "gulp-webserver": "^0.9.1"
+    }
+}
